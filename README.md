@@ -1,6 +1,6 @@
-# 💫 About Me:
+"# 💫 About Me:
 Saya Saiful Rizal, seorang Junior Web Developer yang fokus pada pengembangan aplikasi berbasis React dan Android. Saya senang menciptakan tampilan yang responsif, fungsional, serta terus belajar untuk meningkatkan kemampuan dalam membangun aplikasi modern dan bermanfaat.
-
+ <img align="right" alt="Coding" width="400" src="https://medium.com/linkapi-solutions/how-to-reach-developer-experience-supreme-level-part-one-ed87015af29f">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hai-saifulrizal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@haiijall) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@syaifulrizal230206@gmail.com) 
