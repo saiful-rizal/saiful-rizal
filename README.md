@@ -1,6 +1,6 @@
 # 💫 About Me:
-Saya **Saiful Rizal**, seorang **Junior Web Developer** yang fokus pada pengembangan aplikasi berbasis **React** dan **Android**.  
-Saya senang menciptakan tampilan yang **responsif**, **fungsional**, serta terus belajar untuk meningkatkan kemampuan dalam membangun aplikasi modern dan bermanfaat.  
+I'm **Saiful Rizal**, a **Junior Web Developer** focused on building applications using **React** and Android technologies.
+I enjoy creating responsive, functional, and user-friendly interfaces, while continuously learning to enhance my skills in developing modern and meaningful applications.
 
 ---
 
