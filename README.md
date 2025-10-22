@@ -7,7 +7,7 @@ Saya senang menciptakan tampilan yang **responsif**, **fungsional**, serta terus
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hai-saifulrizal)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@haiijall)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@syaifulrizal230206@gmail.com)
+[![Email](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@syaifulrizal230206@gmail.com)
 
 ---
 
