@@ -1,5 +1,5 @@
 # 💫 About Me:
-ChatGPT said:<br><br>Saya Saiful Rizal, seorang Junior Web Developer yang fokus pada pengembangan aplikasi berbasis React dan Android. Saya senang menciptakan tampilan yang responsif, fungsional, serta terus belajar untuk meningkatkan kemampuan dalam membangun aplikasi modern dan bermanfaat.
+Saya Saiful Rizal, seorang Junior Web Developer yang fokus pada pengembangan aplikasi berbasis React dan Android. Saya senang menciptakan tampilan yang responsif, fungsional, serta terus belajar untuk meningkatkan kemampuan dalam membangun aplikasi modern dan bermanfaat.
 
 
 ## 🌐 Socials:
