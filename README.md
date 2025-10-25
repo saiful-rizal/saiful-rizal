@@ -6,8 +6,7 @@ I enjoy creating responsive, functional, and user-friendly interfaces, while con
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hai-saifulrizal)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@haiijall)
-[![Email](https://img.shields.io/badge/Email-%232B90D9.svg?logo=mastodon&logoColor=white)](https://email.social/@syaifulrizal230206@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HaiIjaall)
 
 ---
 
