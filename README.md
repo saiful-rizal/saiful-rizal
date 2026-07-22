@@ -1,5 +1,3 @@
-# Saiful Rizal
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:2563eb,100:7c3aed&text=Saiful%20Rizal&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Junior%20Web%20Developer%20•%20React%20Developer&descAlignY=60"/>
