@@ -1,32 +1,156 @@
-# 💫 About Me:
-I'm **Saiful Rizal**, a **Junior Web Developer** focused on building applications using **React** and Android technologies.
-I enjoy creating responsive, functional, and user-friendly interfaces, while continuously learning to enhance my skills in developing modern and meaningful applications.
+# Saiful Rizal
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:2563eb,100:7c3aed&text=Saiful%20Rizal&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Junior%20Web%20Developer%20•%20React%20Developer&descAlignY=60"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=2500\&pause=800\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Junior+Web+Developer;React+Developer;Android+Developer;Frontend+Enthusiast;Building+Modern+and+Meaningful+Applications)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=saiful-rizal&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hai-saifulrizal)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HaiIjaall)
+## About Me
+
+I am **Saiful Rizal**, a **Junior Web Developer** passionate about building modern, responsive, and user-friendly digital applications. My primary focus is **React**, **Tailwind CSS**, **Node.js**, and **Android development**.
+
+I enjoy transforming ideas into functional products and continuously improving my skills in frontend engineering, mobile development, and cloud technologies.
+
+### Current Focus
+
+* React & Vite application development
+* Tailwind CSS interface design
+* Android application development
+* Firebase & cloud integration
+* REST API integration
+* UI/UX implementation from Figma
+* Clean code and performance optimization
 
 ---
 
-## 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,express,tailwind,bootstrap,html,css,mysql,firebase,git,github,vercel,figma,vscode,androidstudio,java&perline=9"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saiful-rizal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=saiful-rizal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful-rizal&theme=tokyonight&hide_border=false&layout=compact)
+## GitHub Analytics
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saiful-rizal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiful-rizal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=saiful-rizal&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiful-rizal&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 3D Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</div>
+
+> This section becomes active after enabling the **github-profile-3d-contrib** GitHub Action.
+
+---
+
+## Contribution Snake Animation
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saiful-rizal&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## Featured Skills
+
+<table align="center">
+<tr>
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br/><strong>React</strong>
+</td>
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60"/><br/><strong>Tailwind CSS</strong>
+</td>
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br/><strong>Node.js</strong>
+</td>
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/><br/><strong>Firebase</strong>
+</td>
+</tr>
+</table>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/hai-saifulrizal" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@HaiIjaall" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Keep Learning • Keep Building • Keep Improving
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7c3aed,50:2563eb,100:0ea5e9"/>
+
+</div>
