@@ -42,7 +42,7 @@
 
 ## About
 
-I'm **Saiful Rizal**, a **Junior Web Developer** from Indonesia.
+I'm **Saiful Rizal**, a **Junior Developer** from Indonesia.
 
 I build modern, responsive, and user-friendly web applications using **React**, **Tailwind CSS**, **Node.js**, **Firebase**, **MySQL**, and **Java**.
 
