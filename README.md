@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,50:2563EB,100:7C3AED&text=Saiful%20Rizal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20•%20React%20Developer&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;React+Developer;Android+Developer;Building+Modern+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+Developer;React+Developer;Android+Developer;Flutter+Developer;Building+Modern+Applications)](https://git.io/typing-svg)
 
 <p>
 <a href="https://github.com/saiful-rizal">
