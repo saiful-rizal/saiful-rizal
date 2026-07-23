@@ -4,18 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;React+Developer;Android+Developer;Building+Modern+Applications)](https://git.io/typing-svg)
 
+<p>
 <a href="https://github.com/saiful-rizal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/hai-saifulrizal">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://youtube.com/@HaiIjaall">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+</p>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -24,26 +27,26 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
-<br>
-
+<p>
 <img src="https://komarev.com/ghpvc/?username=saiful-rizal&label=Visitors&style=flat-square&color=2563eb"/>
 <img src="https://img.shields.io/github/followers/saiful-rizal?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/github/stars/saiful-rizal?style=flat-square&logo=github"/>
+</p>
 
 </div>
 
 ---
 
-## About
-
 <div align="center">
+
+## About
 
 I'm **Saiful Rizal**, a **Junior Web Developer** from Indonesia.
 
 I build modern, responsive, and user-friendly web applications using **React**, **Tailwind CSS**, **Node.js**, **Firebase**, **MySQL**, and **Java**.
 
-I enjoy learning new technologies and creating digital solutions with clean code and intuitive user experiences.
+Passionate about continuous learning, I enjoy transforming ideas into clean, efficient, and impactful digital solutions.
 
 </div>
 
@@ -55,13 +58,10 @@ I enjoy learning new technologies and creating digital solutions with clean code
 
 </div>
 
----
 
 <div align="center">
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=saiful-rizal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiful-rizal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=saiful-rizal&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -69,15 +69,7 @@ I enjoy learning new technologies and creating digital solutions with clean code
 
 <div align="center">
 
-<img width="62%" src="https://streak-stats.demolab.com?user=saiful-rizal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiful-rizal&theme=tokyo-night&hide_border=true&area=true&hide_title=true"/>
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiful-rizal&theme=tokyo-night&hide_border=true&area=true&hide_title=true"/>
 
 </div>
 
