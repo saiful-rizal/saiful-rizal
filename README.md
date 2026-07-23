@@ -58,6 +58,7 @@ Passionate about continuous learning, I enjoy transforming ideas into clean, eff
 
 </div>
 
+---
 
 <div align="center">
 
